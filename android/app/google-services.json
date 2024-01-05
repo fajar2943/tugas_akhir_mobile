@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206500201738",
+    "project_id": "cipuk-packaging",
+    "storage_bucket": "cipuk-packaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206500201738:android:d5f4aeb918a142218a66f3",
+        "android_client_info": {
+          "package_name": "com.example.cipuk_packaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206500201738-9rfivg57rvjkhc17udml5m6v66qf7pui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqXKse7NZa3Cz6jVS-Tg4oZtHxPUt4-PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206500201738-9rfivg57rvjkhc17udml5m6v66qf7pui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

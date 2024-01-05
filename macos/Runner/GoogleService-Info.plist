@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>206500201738-2vjc3g1r8ta3t84b9tnsl9s2vofv8lp9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.206500201738-2vjc3g1r8ta3t84b9tnsl9s2vofv8lp9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDTrjON5Z-WdkcVZY02GBZ1_2Ch6eU_8PY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>206500201738</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cipukPackaging.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>cipuk-packaging</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cipuk-packaging.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:206500201738:ios:57d591d5e996a3588a66f3</string>
+</dict>
+</plist>
