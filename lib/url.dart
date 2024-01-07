@@ -8,7 +8,7 @@ var AuthHeader = {
   'Accept': 'application/json',
   'Authorization': 'Bearer ${box.read('token')}'
 };
-// String url = 'http://f454-180-254-244-235.ngrok-free.app';
-String url = 'https://mypackaging.my.id';
+String url =
+    'http://52ed-2001-448a-4082-411b-d553-c707-151-6be7.ngrok-free.app';
 String baseUrl = '${url}/api/v1';
 String defaultImage = '${url}/cipuk/img/default.png';

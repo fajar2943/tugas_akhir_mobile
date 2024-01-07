@@ -17,7 +17,7 @@ class MainView extends GetView<MainController> {
         backgroundColor: Colors.white,
         onPressed: () {
           launcher.launchUrl(
-            Uri.parse('https://wa.me/905434657780'),
+            Uri.parse('https://wa.me/6282158863345'),
             mode: launcher.LaunchMode.externalApplication,
           );
         },
@@ -27,7 +27,7 @@ class MainView extends GetView<MainController> {
         elevation: 0,
         notchMargin: 10,
         child: Container(
-          padding: EdgeInsets.symmetric(horizontal: 35, vertical: 15),
+          padding: EdgeInsets.symmetric(horizontal: 35, vertical: 5),
           child: Obx(() => Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
